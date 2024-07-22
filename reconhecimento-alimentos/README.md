@@ -10,6 +10,9 @@ Este projeto utiliza o dataset Food-101 para criar um modelo de aprendizado de m
 - `src/`: Código fonte principal para pré-processamento de dados, construção e treinamento do modelo.
 - `tests/`: Testes automatizados para o código do modelo.
 
+
+## Autor
+Rauny Lima
 ## Instalação
 
 Instale as dependências do projeto com:
